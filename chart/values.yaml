@@ -2,7 +2,7 @@ web:
   appname: spring-petclinic
   repo: elevy99927
   image: spring-petclinic
-  tag: latest
+  tag: v1.0.0
   port: 8080
 mysql:
   appname: spring-mysql
